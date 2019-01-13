@@ -23,7 +23,6 @@ public class Application {
             reader.close();
             writer.close();
         }
-
     }
 
     public static String Calculate() throws IOException {
